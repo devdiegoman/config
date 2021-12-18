@@ -25,6 +25,7 @@ nnoremap <Leader>a :Ags<Space>
 " Quit Ags
 nnoremap <Leader><Leader>a :AgsQuit<CR>
 
+nnoremap <silent> <leader>o :All<cr>
 
 " SETUP NERDTREE
 nnoremap <leader>n :NERDTreeFocus<CR>

@@ -20,3 +20,9 @@ https://jeongwhanchoi.medium.com/install-tmux-on-osx-and-basics-commands-for-beg
 
 ### VIM-PLUG
 https://github.com/junegunn/vim-plug
+
+#### Copy 
+cp .zshrc ~/
+
+cp .tmux.conf ~/
+
