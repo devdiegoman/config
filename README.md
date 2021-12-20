@@ -1,3 +1,4 @@
+
 # DEPENDENCES
 
 ### FZF
@@ -26,3 +27,6 @@ cp .zshrc ~/
 
 cp .tmux.conf ~/
 
+### TIPS
+
+Install eslint and prettier globaly and in a root project as npm dependency

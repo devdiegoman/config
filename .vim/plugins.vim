@@ -51,5 +51,8 @@ Plug 'mhinz/vim-signify'
 Plug 'yggdroot/indentline'
 Plug 'scrooloose/nerdcommenter'
 
+" ALE
+Plug 'dense-analysis/ale'
+
 call plug#end()
 
