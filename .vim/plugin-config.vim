@@ -54,3 +54,12 @@ let g:ale_sign_error = '✘'
 let g:ale_sign_warning = '⚠'
 highlight ALEErrorSign ctermbg=NONE ctermfg=red
 highlight ALEWarningSign ctermbg=NONE ctermfg=yellow
+
+" JSX/JS
+" set background=dark
+" set termguicolors
+let g:quantum_italics=1
+let g:jsx_ext_required = 1
+
+" Deoplete
+let g:deoplete#enable_at_startup = 1
